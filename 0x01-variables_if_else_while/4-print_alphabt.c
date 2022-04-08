@@ -2,7 +2,7 @@
 
 /**
  * main - block
- * discription: prints the alphabets in lowwercase 
+ * discription: prints the alphabets in lowwercase,
  * followed by a new line, except q and e
  * Return: Aways 0 (Sucess)
  */
