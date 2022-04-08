@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main: block
+ * main- block
  * discription: print alphabet to lowwercase
  * and then to uppercase followed by newline
  * Return: Always 0 (Success)
